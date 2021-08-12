@@ -19,13 +19,6 @@ Details of Tracy’s iPhone
 The details of Tracy’s iPhone can be found here:
 https://docs.google.com/document/d/1sjXTLIt9HX7LauKj1MGgcAwZE9AzinxSd0nSeNH9jIM/edit#heading=h.1b6szis2ys4z
 
-Conclusion
-Evidence found on Tracy’s iPhone indicated the following: 
-	
-	According to Artifact #1 and #2, the initial encrypted emails between the two accused persons began on 6/19/2012. Pat and Tracy mentioned their usage of alias names, Perry and Coral, along with email addresses to discuss details on the heist. Several emails between Tracy and Joe, indicated Tracy’s financial difficulties and her motive for the heist (Artifact #12). According to Artifact #16, Pat emails King with Tracy in CC. This email is a proposition of the heist at The National Gallery. Pat threatens King to comply or he would put King’s parole in jeopardy. Following that email, Tracy suggests that the three (King, Tracy and Pat) should hang out, assuming that this would brighten the mood and suggest he comply. On 7/10.2012, King agreed and sent a list of tools to assist the heist (Artifact #21). Several emails between Tracy and Carry indicate their plan for the flash mob that is deemed unsuccessful. They discuss a time to meet and exchange the device with no follow up email. Based on the GPS location information, it seems that they may have been looking for parking or stalling time. 
-
-
-
 
 
 
