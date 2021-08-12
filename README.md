@@ -8,12 +8,6 @@ Tracy is a suspect in the aforementioned conspiracy.
 As part of the investigation, Tracy’s iPhone was taken into custody. 
 Digitech, Inc. was tasked with investigating evidence relevant to the aforementioned conspiracy.
 
-Equipment and Tools
-The following tools were used to investigate:
-Kali Linux
-Autopsy
-DB Browser for SQLite
-Google Maps
 
 Details of Tracy’s iPhone
 The details of Tracy’s iPhone can be found here:
